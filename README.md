@@ -1,2 +1,1 @@
-# gadischindomulus
-gadischindomulus
+# [gadischindomulus](https://gadischindomulus.pages.dev)
